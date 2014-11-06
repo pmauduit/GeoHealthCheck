@@ -41,6 +41,7 @@ GHC_NOTIFICATIONS = False
 GHC_ADMIN_EMAIL = 'you@example.com'
 GHC_SITE_TITLE = 'GeoHealthCheck Demonstration'
 GHC_SITE_URL = 'http://host'
+APPLICATION_ROOT = 'geohealthcheck'
 
 GHC_SMTP = {
     'server': None,
